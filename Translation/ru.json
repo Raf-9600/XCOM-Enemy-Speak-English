@@ -1,0 +1,21 @@
+{
+    "Title": "Программа для смены языка озвучки на английскую в XCOM: Enemy Unknown и XCOM: Enemy Within.",
+    "ProgramManagement": "Для управления программой, введите цифру, что соответствует желаемой вами команде, после чего нажмите клавишу Enter.",
+    "GameFoundDir": "Игра найдена в директории: %DirName%",
+    "BinkFondInDir": "Найдены binkmix.exe и binkconv.exe в директории %DirName%. Возможность смены озвучки в видеороликах доступна.",
+    "BinkNotFond": "Не найдены binkmix.exe и binkconv.exe, поэтому смена озвучки в видеороликах невозможна.",
+    "BinkSelectDir": "Указать путь к директории с binkmix.exe и binkconv.exe",
+    "BinkSelectDirDlgTitle": "Укажите директорию с binkmix.exe и binkconv.exe",
+    "BinkNotFoundMsgTitle": "The RAD Video Tools не найден",
+    "BinkNotFoundMsgContent": "В указанной вами папке binkmix.exe и binkconv.exe не найдены.",
+    "DirGameChange": "Указать другую директорию игры.",
+    "DirGameSelectDlgTitle": "Укажите корневую директорию игры XCOM Enemy Unknown",
+    "DirGameSelectNotFoundMsgTitle": "XCOM Enemy Unknown не найден",
+    "DirGameSelectNotFoundMsgContent": "В указанной вами папке игра не найдена. Возможно, вы\nуказали неверную папку. Желаете ещё раз попробовать?",
+    "ChangeVoiceToEng": "Сменить озвучку на английскую.",
+    "RemoveDirVoice": "Удаление директорий с озвучкой персонажей...",
+    "ChangeLngVideo": "Замена озвучки в видеороликах",
+    "ChangeLngVideoEnd": "завершена.",
+    "End": "Работа программы завершена.",
+    "NoWar": "Свободу Украине от русских оккупантов!"
+}

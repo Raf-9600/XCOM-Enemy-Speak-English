@@ -1,0 +1,21 @@
+{
+    "Title": "Programm zum Ändern der Sprache auf Englisch in XCOM: Enemy Unknown und XCOM: Enemy Within.",
+    "ProgramManagement": "Geben Sie eine Nummer ein, die dem gewünschten Befehl entspricht, und drücken dann die Eingabetaste.",
+    "GameFoundDir": "Das Spiel wurde im Ordner %DirName% gefunden",
+    "BinkFondInDir": "Gefunden wurden binkmix.exe und binkconv.exe im Verzeichnis %DirName%. Es besteht die Möglichkeit, die Sprache in den Videos zu ändern.",
+    "BinkNotFond": "Es wurden keine binkmix.exe und binkconv.exe gefunden, somit ist keine Änderung der Sprache möglich.",
+    "BinkSelectDir": "Geben Sie den Pfad zu binkmix.exe und binkconv.exe an",
+    "BinkSelectDirDlgTitle": "Geben Sie den Ordner mit binkmix.exe und binkconv.exe an",
+    "BinkNotFoundMsgTitle": "The RAD Video Tools nicht gefunden",
+    "BinkNotFoundMsgContent": "Es wurden keine binkmix.exe und binkconv.exe in dem von Ihnen angegebenen Ordner gefunden.",
+    "DirGameChange": "Geben Sie einen anderen Ordner an",
+    "DirGameSelectDlgTitle": "Geben Sie den Ordner mit dem Spiel XCOM Enemy Unknown an",
+    "DirGameSelectNotFoundMsgTitle": "XCOM Enemy Unknown nicht gefunden",
+    "DirGameSelectNotFoundMsgContent": "Es wurde kein Spiel in dem von Ihnen angegebenen Ordner gefunden.\nSie haben möglicherweise einen falschen Ordner eingegeben.\nMöchten Sie es noch einmal versuchen?",
+    "ChangeVoiceToEng": "Ändern der Sprache auf Englisch.",
+    "RemoveDirVoice": "Löschen der Ordner mit Sprache der Charaktere ...",
+    "ChangeLngVideo": "Ändern der Sprache in den Videos",
+    "ChangeLngVideoEnd": "abgeschlossen.",
+    "End": "Alles erledigt.",
+    "NoWar": "Russland, Hände weg von der Ukraine!"
+}
